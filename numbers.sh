@@ -12,5 +12,5 @@ do
 	else
 		echo "$i Odd"
 	fi
-	i=$[i+1]
+	i=$((i+1))
 done
